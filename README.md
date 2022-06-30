@@ -9,3 +9,4 @@ https://www.codewell.cc/challenges/commune-waitlist-page--608d9565747bad001532bd
 + Using Flexbox
 + Positioning elements
 + Handling basic features of css
++ Responsive Web Design (media queries and relative units: vh, vw, rem, em)
